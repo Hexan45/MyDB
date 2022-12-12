@@ -10,6 +10,7 @@ Bardzo prymitywna symulacja bazy danych napisania w PHP, wykorzystująca JSON
 -   W katalogu `logs`, istnieje również plik `logs.txt` rejestrujący wszystkie błędy w oprogramowaniu
 
 #**connectDB()** Ta metoda odpowiada za połączenie z bazą danych, przyjmuje 3 argumenty, kolejno: username, password, database_name ( znajdują się one w katalogu data w pliku data.json ). Zwróci true jeśli uwierzytelniono, w przeciwnym wypadku false.
+
 **closeDB()** Zamyka połączenie i uniemożliwia dalsze korzystanie na obecnej instancji, zwraca true jeśli się udało, w przeciwnym wypadku false
 
 #**getFromDB()** Metoda służy do pobrania pojedynczej wartości lub wielu wartości, przyjmuje następujące argumenty: tableName, values. Argument tableName odpowiada za nazwę tabeli w pliku data.json. Natomiast values, służy do wskazania nazw indeksów. Przykłady: Pobranie pojedynczej wartości: `$mydb->getFromDB('users', nickname: 'Janek')` Pobranie wielu wartości: `$mydb->getFromDB('users', nickname: ['Janek', 'Teodor'])`
