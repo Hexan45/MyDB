@@ -1,0 +1,56 @@
+[ FATAL_ERROR ] - Plik rdzenia bazy danych nie istnieje!
+[ FATAL_ERROR ] - Plik rdzenia bazy danych nie istnieje!
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ FATAL_ERROR ] - Plik rdzenia bazy danych nie istnieje!
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podana tablica nie istnieje, nie można wykonać żądania
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ WARNING_ERROR ] - Podano nieprawidłowe dane logowania do bazdy danych
+[ WARNING_ERROR ] - Nie możesz przerwać połączenia
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cos] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cs] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cs] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cs] nie istnieje w strukturze elementów tablicy
+[ NOTATION_ERROR ] - Index [cs] nie istnieje w strukturze elementów tablicy
